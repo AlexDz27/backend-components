@@ -1,0 +1,7 @@
+<?php
+
+class SiteEvents
+{
+  const REGISTERED_EVENT = 'REGISTERED';
+  const PASSED_SESSION_ONE_EVENT = 'PASSED_SESSION_ONE';
+}
