@@ -1,0 +1,17 @@
+{
+    "name": "alexdz27/curl",
+    "description": "A class for providing Curl methods",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AlexDz27\\Curl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexey Dzyuba",
+            "email": "alexeydzyuba27@gmail.com"
+        }
+    ],
+    "require": {}
+}
